@@ -16,7 +16,7 @@ Inspired by Wireshark, built for blue/red teams, CTFs, and network forensics!
 - **Flows (Session) Summary**:  
   - Tally conversations between hosts/ports—like Wireshark's Conversations tool
 - **Paging**:  
-  - View results in pages (first 20, then 10 more with `m`/`more`)
+  - View results in pages (first 50, then 30 more with `m`/`more`)
 - **Export & Payload Dump**:  
   - Export filtered results to a new PCAP, or dump TCP/raw payloads to a text file
 - **Theme Support**:  
